@@ -3,4 +3,4 @@
 #### Diagram
 ![Diagram][def]
 
-[def]: diagram.drawio.svg
+[def]: diagram.drawio.png
