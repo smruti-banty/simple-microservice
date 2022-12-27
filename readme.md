@@ -3,4 +3,4 @@
 #### Diagram
 ![Diagram][def]
 
-[def]: diagram.drawio.png
+[def]: /diagram.drawio.png
