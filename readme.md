@@ -1,1 +1,1 @@
-![Diagram](diagram.drawio)
+![Diagram](diagram.drawio.svg)
