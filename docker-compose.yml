@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  project-discovery:
+    build: ./project-discovery
+    ports:
+      - "8761:8761"
+  smruti-service:
+    depends_on:
+      - project-discovery
+    build: ./banty-service
+  banty-service:
+    depends_on:
+      - smruti-service
+    build: ./smruti-service
+  project-gateway:
+    depends_on:
+      - banty-service
+    build: ./project-gateway
+    ports:
+      - "9000:9000"
