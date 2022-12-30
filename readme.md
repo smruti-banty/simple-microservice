@@ -1,7 +1,7 @@
 # Simple Microservice
 ### Hello to microservice
 #### Diagram
-![Diagram](./diagram.drawio.png)
+![Diagram](./diagram.jpg)
 
 ## Run in docker
 1. git checkout docker-feature.
