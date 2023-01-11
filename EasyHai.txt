@@ -1,0 +1,7 @@
+Dekh bro,
+If anybody ask about modern technology just tell him/her this following key word
+. MVC architecture
+. CI/CD pipeline.
+. Sprint planning
+. scrum call
+. Clean code
